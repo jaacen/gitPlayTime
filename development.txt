@@ -5,3 +5,7 @@ three
 five
 seven
 nine
+
+handleOddNumbers() {
+	odds are easier;
+}
